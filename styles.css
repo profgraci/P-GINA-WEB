@@ -23,8 +23,11 @@ body{
     }
     p{
         font: size 60px;
-        img{height: 200px;}
-        
+    
+        h2{
+              img{height: 200px;}
+
+        }
         
 
         
